@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'Font';
+  src: local('Font'), url('./assets/fonts/Noto_Sans/NotoSans-Bold.ttf') format('ttf');
+  font-weight: 300; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+
+body {
+  font-family: 'Font', sans-serif; /* Use the custom font */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
