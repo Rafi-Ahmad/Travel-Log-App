@@ -90,5 +90,4 @@ Font Awesome
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
 
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
